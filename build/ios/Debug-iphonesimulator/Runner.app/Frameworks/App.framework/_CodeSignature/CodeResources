@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		DDMjIUOCcAwjHE6yI5R0XBVWKlM=
+		hySVFh4ad7RyGyaOj7ABtROM/X4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -19,6 +19,10 @@
 		<key>flutter_assets/LICENSE</key>
 		<data>
 		e4C9TQddxHLrAhTDNJX+BhUOKNk=
+		</data>
+		<key>flutter_assets/assets/bikering.png</key>
+		<data>
+		LzsuSuWml6jhH5ie5wvX+0z1sXQ=
 		</data>
 		<key>flutter_assets/assets/ringbike.wav</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		pv/AFd1cjIvJvcJuwoHOmOZMqHk=
+		OFt7bloOlB8u5aHrGr+X9agYQuk=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -51,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DDMjIUOCcAwjHE6yI5R0XBVWKlM=
+			hySVFh4ad7RyGyaOj7ABtROM/X4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ztfkZtUBUQGGb/laURGdxnjHBrbPBjD6H4s0/2gByQE=
+			h+F1U9vT2asQ07OVmOl3xqdn83ob9f15FDtkryzZA4c=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -78,6 +82,17 @@
 			<key>hash2</key>
 			<data>
 			1qmcrdVx4NFf3WNgxeilO8I1b1y9JuFYvS30oPFlbtY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/bikering.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LzsuSuWml6jhH5ie5wvX+0z1sXQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fF5OaL+wOBRatxaMy/fQQ/XIdxwe6azEsyypAccg+Pg=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ringbike.wav</key>
@@ -117,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pv/AFd1cjIvJvcJuwoHOmOZMqHk=
+			OFt7bloOlB8u5aHrGr+X9agYQuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5d0rcrkLLUhCGGeR9fReSpf49NRzl/3NYur+SspWQso=
+			CxMdQ1N7CyzIzRyF58WqLIjZkQFL/1PK9Da4sGf3qt0=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

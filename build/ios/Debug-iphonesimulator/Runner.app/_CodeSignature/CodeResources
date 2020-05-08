@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		MdIr5Cc4OJsxk9fIE8EOr+2LXp0=
+		/baMSS2fIQFvcRnjn66LD1cIdUI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2M2qA40PDlXGZRAh57400im9ZmI=
+		LkcxzbXF8bahjfC1do6WfTGr6f4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		DDMjIUOCcAwjHE6yI5R0XBVWKlM=
+		hySVFh4ad7RyGyaOj7ABtROM/X4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -131,6 +131,10 @@
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
 		<data>
 		e4C9TQddxHLrAhTDNJX+BhUOKNk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/bikering.png</key>
+		<data>
+		LzsuSuWml6jhH5ie5wvX+0z1sXQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/ringbike.wav</key>
 		<data>
@@ -146,7 +150,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		pv/AFd1cjIvJvcJuwoHOmOZMqHk=
+		OFt7bloOlB8u5aHrGr+X9agYQuk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -182,7 +186,7 @@
 		</data>
 		<key>Frameworks/audioplayers.framework/audioplayers</key>
 		<data>
-		HCxNBT/xNFQ4ypDooGEZulRmSdE=
+		vUKVZSnJAyP44SwRp0KBxK9Ivwk=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -222,7 +226,7 @@
 		</data>
 		<key>Frameworks/path_provider.framework/path_provider</key>
 		<data>
-		gzg3aQEa92T31FqqHV9ThDy8VeU=
+		zpoatwRIhMRMVrL9yX6MtD35yXk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -525,11 +529,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MdIr5Cc4OJsxk9fIE8EOr+2LXp0=
+			/baMSS2fIQFvcRnjn66LD1cIdUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			7jk5TmvF6mA8FmQGjhAWfs0seqwMQ+jAzQo0ZxA0BT8=
+			Zhfy3WUFOmMOgBh+Z+IznW94RIpAMfs9X/BUme3YhrY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -547,22 +551,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2M2qA40PDlXGZRAh57400im9ZmI=
+			LkcxzbXF8bahjfC1do6WfTGr6f4=
 			</data>
 			<key>hash2</key>
 			<data>
-			r/Sukk6xz8ADChbi1C4KseEY96BbmxHCxef5+hVcRcg=
+			+oN7wYBR1YCo2Wb2b93c6zx+lfQzlUK5yrhr9i4Kp68=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DDMjIUOCcAwjHE6yI5R0XBVWKlM=
+			hySVFh4ad7RyGyaOj7ABtROM/X4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ztfkZtUBUQGGb/laURGdxnjHBrbPBjD6H4s0/2gByQE=
+			h+F1U9vT2asQ07OVmOl3xqdn83ob9f15FDtkryzZA4c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -585,6 +589,17 @@
 			<key>hash2</key>
 			<data>
 			1qmcrdVx4NFf3WNgxeilO8I1b1y9JuFYvS30oPFlbtY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/bikering.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LzsuSuWml6jhH5ie5wvX+0z1sXQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fF5OaL+wOBRatxaMy/fQQ/XIdxwe6azEsyypAccg+Pg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/ringbike.wav</key>
@@ -624,11 +639,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pv/AFd1cjIvJvcJuwoHOmOZMqHk=
+			OFt7bloOlB8u5aHrGr+X9agYQuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5d0rcrkLLUhCGGeR9fReSpf49NRzl/3NYur+SspWQso=
+			CxMdQ1N7CyzIzRyF58WqLIjZkQFL/1PK9Da4sGf3qt0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -723,11 +738,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HCxNBT/xNFQ4ypDooGEZulRmSdE=
+			vUKVZSnJAyP44SwRp0KBxK9Ivwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/j9e9wLKPLJ1M+8A2XiR7885H6MOzq1f8F+VkqUn7c8=
+			FRxjeJLp2f+dB0l/Spl6j4db8JySRvXbuTgk/UToi78=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -833,11 +848,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gzg3aQEa92T31FqqHV9ThDy8VeU=
+			zpoatwRIhMRMVrL9yX6MtD35yXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ePMIbkoUIdnB5MyJRYhZR7hllflYoH60vNYZuBWmRlY=
+			H0lDucqZ4jZc+glr5cQqhUqWm8++/s6VaymlE5Akmw4=
 			</data>
 		</dict>
 	</dict>
