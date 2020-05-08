@@ -13,7 +13,7 @@ class BikeRingApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.grey[600],
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
