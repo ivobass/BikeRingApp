@@ -23,4 +23,6 @@ flutter:
 
   assets:
     - assets/
+    - assets/screwhex.png
+    - assets/screwmini.png
 
