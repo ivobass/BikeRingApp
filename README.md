@@ -12,7 +12,7 @@ Mobile App feita em Flutter
 O projeto foi feito com flutter e dart para crear um efeito sonoro e visual parecido a uma capainha de bicicleta
 
 
-<img width=300 src="assets/ringbike.png" alt="page-home">
+<img width=300 src="assets/bikering.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
