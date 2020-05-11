@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		vArk/YCe8mQuqWN9BuoMajuyNiU=
+		0cDwe8gIWBK3NdN3G+zuxNzJ/gY=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -20,9 +20,9 @@
 		<data>
 		e4C9TQddxHLrAhTDNJX+BhUOKNk=
 		</data>
-		<key>flutter_assets/assets/bikering.png</key>
+		<key>flutter_assets/assets/botao.png</key>
 		<data>
-		ikjjCPyfjeg0DYocKIG+ExsQRA4=
+		E+patOsN9Zohh+UY08tyEIxSa5s=
 		</data>
 		<key>flutter_assets/assets/dartflutter.png</key>
 		<data>
@@ -36,25 +36,25 @@
 		<data>
 		fWS6g0F6iftAQZpIAwBF5mxxSJ0=
 		</data>
+		<key>flutter_assets/assets/ring.png</key>
+		<data>
+		mxMBbVtGTUNCioDyIs50ls7xgNI=
+		</data>
 		<key>flutter_assets/assets/ringbike.png</key>
 		<data>
-		IJVchXTIf8B35ePuV7EmaDll0+4=
+		JPE4Z0zCK9bnhfWw0xIrc9SgJNc=
 		</data>
 		<key>flutter_assets/assets/ringbike.wav</key>
 		<data>
 		1Z9SHfkj36Ob311vSLZC6SByEdo=
 		</data>
-		<key>flutter_assets/assets/screw.png</key>
+		<key>flutter_assets/assets/screwmicro.png</key>
 		<data>
-		6hdsNgVoFFFgHrQfhuzCkJ4Oh2s=
-		</data>
-		<key>flutter_assets/assets/screwhex.png</key>
-		<data>
-		LWWzQjDgiOVbxXCrseWy+X0GfH8=
+		0sNNttsZP/8f93IqObgm74CSfrk=
 		</data>
 		<key>flutter_assets/assets/screwmini.png</key>
 		<data>
-		DCCvTPUFl7DalETqqD4jFNCTwiQ=
+		7jA0TV0dXop8Qttagj0qFTGLHu8=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		XEXs6FIAiBtstJ95tu695fbu1Ms=
+		nP0Mb768pRKrTMee4cRtUz7SshQ=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vArk/YCe8mQuqWN9BuoMajuyNiU=
+			0cDwe8gIWBK3NdN3G+zuxNzJ/gY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xl+eZoGNjhEsaCPuwgk9X6yGz9Dm6tO2Y+mzpu0HqKQ=
+			MCcYbuaFMX/0WJh5M4s6sHukC+n7V4/8buTTIbR0z34=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -112,15 +112,15 @@
 			1qmcrdVx4NFf3WNgxeilO8I1b1y9JuFYvS30oPFlbtY=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/bikering.png</key>
+		<key>flutter_assets/assets/botao.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ikjjCPyfjeg0DYocKIG+ExsQRA4=
+			E+patOsN9Zohh+UY08tyEIxSa5s=
 			</data>
 			<key>hash2</key>
 			<data>
-			WZlveQfwWowBd1kCP2Uf5ZJW4RvnYzRfMfv1s9k2Vak=
+			FbceIo+TxervTmgmnAKxMKHKtfgdV+SCi3CyRm8Mt94=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/dartflutter.png</key>
@@ -156,15 +156,26 @@
 			nAbSALoodbmJi0g+koYcfth45ECHojc5OBvy02+aBr4=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/ring.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mxMBbVtGTUNCioDyIs50ls7xgNI=
+			</data>
+			<key>hash2</key>
+			<data>
+			0jeQuk87QPAL3Q29tvvq2hI+7XSJl5n3ZtXLjPvcgHo=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/ringbike.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJVchXTIf8B35ePuV7EmaDll0+4=
+			JPE4Z0zCK9bnhfWw0xIrc9SgJNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			b4/QqUg1ahNIkrgu2uH48kAPZXit2tLFF2ggFdSS7YA=
+			m3mhnq0ZIMwRLDELATAc1k0CfXNpMp0NYaQp0TEi2Ic=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ringbike.wav</key>
@@ -178,37 +189,26 @@
 			4xp+pPLJBoKgRxZAvb+YYaKS7oUp3NvxiFS+Um15BAI=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/screw.png</key>
+		<key>flutter_assets/assets/screwmicro.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6hdsNgVoFFFgHrQfhuzCkJ4Oh2s=
+			0sNNttsZP/8f93IqObgm74CSfrk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FUlgZ3Yi29kqKNx7t78qWoOvG8UWZJi600BUt13VrJ8=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/screwhex.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LWWzQjDgiOVbxXCrseWy+X0GfH8=
-			</data>
-			<key>hash2</key>
-			<data>
-			o+pASjuJAtVWmu/cuOozKlv+JCn1zXMNoOo94iK/uu0=
+			2QB59hL2vcmgwb+znS+iwPi0Y9BOTO092mfNSqrON7g=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/screwmini.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DCCvTPUFl7DalETqqD4jFNCTwiQ=
+			7jA0TV0dXop8Qttagj0qFTGLHu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gsmDwbk4/SFriW2TaM0sBI3gls7jlxzC2sEERc2QwY8=
+			ItE2sttgEzcn0oT1qAwElz+ZK9qIKzgFh6prvRXl1z0=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -237,11 +237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XEXs6FIAiBtstJ95tu695fbu1Ms=
+			nP0Mb768pRKrTMee4cRtUz7SshQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xg8cxMVXR0m/ubRxIOhCobifHe7y6rG0K8hGT3zQZhY=
+			owx2XGt0SVavevT0VBP02NEOA5hMp4U5+/Mn9TC/YUI=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
